@@ -20,7 +20,7 @@
      "WAProto/**/*",
      "engine-requirements.js",
      "package.json",
-     "README.md",
+     "README.md"
   ],
   "scripts": {
     "preinstall": "node ./engine-requirements.js"
